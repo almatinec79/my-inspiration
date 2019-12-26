@@ -1,0 +1,2 @@
+# my-inspiration
+Для лендинга
